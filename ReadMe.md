@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante FullStack JavaScript.<br>👯 Estou a procura de um estágio.<br>
+🔭 Estudante Desenvolvedor FullStack JavaScript.<br>👯 Estou a procura de um estágio.<br>
 
 
 ## 🌐 Socials:
